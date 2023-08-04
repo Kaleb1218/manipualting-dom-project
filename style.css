@@ -7,3 +7,8 @@ div {
 #img-div {
     display: none;
 }
+img{
+    display: inline;
+    flex-wrap: wrap;
+    width: 100px;
+}
